@@ -78,28 +78,6 @@ Currently working as a **Junior Software Developer at Realtech GPS PVT LTD**, wh
 
 ---
 
-## 🚀 Featured Projects
-
-### **iChlorine** - Admin Management System
-- Designed and implemented both **Admin and Super Admin panels** with independent access control
-- Implemented **data tables using TanStack Table** with multiple filters, sorting, pagination, and export features
-- Managed server communication using **React Query** for efficient API handling
-- Currently contributing to ongoing development focusing on **feature enhancements and scalability**
-
-### **iTank** - Smart Water Management System
-- Performed **initial development tasks** including bug fixes and feature enhancements
-- **Migrated to React**, independently designing project architecture, routing, and authentication workflows
-- Integrated **Tailwind CSS, Google Maps Web API, and MQTT** for real-time data monitoring
-- Enabled **real-time data visualization** and system monitoring capabilities
-
----
-
-## 📜 Certifications
-- **Python Full Stack Internship** - Coapps.ai (Jan 2024 - Mar 2024)
-  - Successfully completed internship demonstrating **professionalism, dedication, and strong learning ability**
-
----
-
 ## 🎓 Education
 - **B.E. Electronics and Communication Engineering** (2020-2024)
   - Velalar College of Engineering and Technology | CGPA: 8.9/10
