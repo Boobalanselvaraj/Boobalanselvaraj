@@ -35,68 +35,90 @@
 | Location | Tamil Nadu, India |
 | Portfolio | https://boobalan-selvaraj-portfolio.netlify.app |
 
-# 💻 Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2000&pause=1000&color=10B981&center=true&vCenter=true&width=300&lines=Tech+Stack;Tools+%26+Technologies" alt="Tech Stack" />
+</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,express,mysql,html,css,tailwind,bootstrap,vite,docker,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,express,mysql,html,css,tailwind,bootstrap,vite,docker,git,github,postman,vscode&perline=8"/>
 </p>
 
-# 🏗️ Expertise
-
-- REST APIs
-- React Architecture
-- Component Based Design
-- Authentication & Authorization
-- RBAC
-- MQTT
-- WebSocket
-- Google Maps
-- Deck.gl
-- GeoJSON
-- Responsive UI
-- Performance Optimization
-
-# 🚀 Featured Projects
-
-## 🚗 iGPS
-- Legacy JavaScript to React migration
-- MQTT & WebSocket
-- Google Maps API
-- Deck.gl & GeoJSON
-- Live fleet tracking
-
-## 💧 iTank
-- React migration
-- Secure authentication
-- Responsive UI
-- Performance improvements
-
-## 🔐 iSafe
-- RBAC
-- REST APIs
-- TypeScript
-- Secure authentication
-
-# 📊 GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=300&lines=Core+Expertise;Skills+%26+Strengths" alt="Expertise" />
+</div>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Boobalanselvaraj&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boobalanselvaraj&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Component%20Design-FF4154?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth%20%26%20RBAC-4A154B?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT%20%26%20WebSocket-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deck.gl%20%26%20GeoJSON-000000?style=for-the-badge&logo=uber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance-4CAF50?style=for-the-badge&logo=lighthouse&logoColor=white"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Boobalanselvaraj&theme=tokyonight"/>
-</p>
+<br />
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boobalanselvaraj&theme=tokyo-night"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&color=F77062&center=true&vCenter=true&width=500&lines=Professional+Experience;Enterprise+Projects" alt="Professional Projects" />
+</div>
 
-# 🏆 GitHub Trophies
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🚗 iGPS</h3>
+      <p>Legacy JavaScript to React migration with Live fleet tracking using Google Maps API, Deck.gl & GeoJSON.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💧 iTank</h3>
+      <p>Full React migration with focus on Secure authentication, Responsive UI and Performance improvements.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔐 iSafe</h3>
+      <p>Robust enterprise solution featuring RBAC, REST APIs, TypeScript and Secure authentication.</p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Boobalanselvaraj&theme=tokyonight&column=4"/>
-</p>
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Open+Source+Contributions;GitHub+Repositories" alt="Open Source Projects" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 <a href="https://github.com/Boobalanselvaraj/AI---Chat">AI Chat Application</a></h3>
+      <p>A smart conversational AI interface built for engaging interactions.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧮 <a href="https://github.com/Boobalanselvaraj/CalcVerse">CalcVerse</a></h3>
+      <p>Advanced calculator and mathematical tool ecosystem built with TypeScript.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 <a href="https://github.com/Boobalanselvaraj/ecommerce-frontend">E-Commerce Platform</a></h3>
+      <p>Full-stack digital storefront with secure payments. <br/> <a href="https://github.com/Boobalanselvaraj/ecommerce-frontend">Frontend</a> | <a href="https://github.com/Boobalanselvaraj/ecommerce-backend">Backend</a></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>💬 <a href="https://github.com/Boobalanselvaraj/Discord-Slash-Command-Bot">Discord Slash Bot</a></h3>
+      <p>Interactive Discord bot leveraging modern slash commands using TypeScript.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔐 <a href="https://github.com/Boobalanselvaraj/django-auth">Django Auth</a></h3>
+      <p>Robust authentication boilerplate for Python/Django applications.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 <a href="https://github.com/Boobalanselvaraj/Bookskey-Page">Bookskey Page</a></h3>
+      <p>Elegant landing page for book discovery and reviews.</p>
+    </td>
+  </tr>
+</table>
 
 # 🌱 Currently Learning
 
